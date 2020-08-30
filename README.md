@@ -1,5 +1,5 @@
 # pandaatlarge.github.io
-<iframe src="/assets/img/3D.html"
+<iframe src="/pandaatlarge.github.io/img/3D.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
